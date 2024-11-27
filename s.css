@@ -1,0 +1,13 @@
+.div {
+    width: 200px;
+    height: 150px;
+    background-color: #f0f8ff; /* Light blue */
+    color: #333; /* Dark gray */
+    border: 2px solid #ccc; /* Light gray border */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    padding: 20px; /* Inner spacing */
+    text-align: center; /* Center text */
+    font-family: Arial, sans-serif; /* Font style */
+    margin: 20px auto; /* Center div on the page */
+}
